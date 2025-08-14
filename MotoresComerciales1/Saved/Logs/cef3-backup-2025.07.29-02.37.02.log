@@ -1,3 +1,0 @@
-[0728/203502.394:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0728/203502.871:WARNING:storage_block-inl.h(146)] Failed data load.
-[0728/203702.094:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
